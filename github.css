@@ -1,0 +1,36 @@
+.container{
+    width: 800px;
+    margin:0 auto;
+    background-color:hwb(0 94% 5%);
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+img.octocat {
+    height: 200px;
+}
+.boxblue{
+    background-color:aqua ;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+}
+.boxpink{
+    background-color: lightcoral;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+    padding: 20px;
+}
+.boxcream{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+}
